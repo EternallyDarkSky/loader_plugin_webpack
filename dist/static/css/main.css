@@ -1,0 +1,23 @@
+
+            /*
+            * Author: ming
+            */
+            
+.box{
+    height: 100px;
+    width: 100px;
+    background-image: url(../..//static/images/25bbda8b1304f4fc.jpg);
+    background-size: contain;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-image: url(../..//static/images/7f278b244e657b75.jpg);
+    background-size: contain;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-image: url(../..//static/images/c13216aaa5e8014e.jpg);
+    background-size: contain;
+}

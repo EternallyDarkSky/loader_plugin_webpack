@@ -1,0 +1,19 @@
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-image: url("../images/1.jpg");
+    background-size: contain;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-image: url("../images/2.jpg");
+    background-size: contain;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-image: url("../images/3.jpg");
+    background-size: contain;
+}

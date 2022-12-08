@@ -1,0 +1,10 @@
+|资源名称|资源大小|
+|----|----|
+|static/images/25bbda8b1304f4fc.jpg|295kb|
+|static/images/7f278b244e657b75.jpg|138kb|
+|static/images/c13216aaa5e8014e.jpg|277kb|
+|static/css/main.css|1kb|
+|./main.js|5kb|
+|./libs-chunk-our.js|296kb|
+|./libs-chunk-our.js.LICENSE.txt|15kb|
+|index.html|2kb|
